@@ -17,6 +17,7 @@ document.addEventListener('keydown', blue)
 
 window.onload = function() {
     console.log('fun bus ready to load!!!')
+    console.log(logoHead)
 }
 
 function nono() {
@@ -58,3 +59,5 @@ for (let des of dest) {
         des.style.fontWeight = 'initial'
     })
 }
+
+
